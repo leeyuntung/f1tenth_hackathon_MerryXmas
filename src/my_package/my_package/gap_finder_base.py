@@ -323,7 +323,7 @@ class GapFinderNode(Node):
             disparity_threshold=0.6,
             lookahead=20,
             speed_kp=1.0,
-            steering_kp=1.0,
+            steering_kp=1.2,
             wheel_base=0.324,
             speed_max=25.0,
             speed_min=1.0,
